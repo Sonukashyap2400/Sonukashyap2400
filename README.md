@@ -24,14 +24,14 @@
     <img src="https://img.shields.io/badge/GitHub-SonuKashyap2400-black?style=for-the-badge&logo=github"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Work-red?style=for-the-badge" />
-</p>📱 7210992118
+</p> 📬 Gmail: sonukashyap3916@gmail.com
 
 
 ---
 
 💻 Tech Stack
 
-<p align="left"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,tailwind,git,github,vscode" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,tailwind,git,github,vscode" />  </p>
 ---
 
 🔥 Featured Projects
