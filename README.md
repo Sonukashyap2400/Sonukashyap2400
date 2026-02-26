@@ -2,89 +2,77 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sonu%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=750&lines=Frontend-First+Engineer+with+Optimization+Mindset;Performance+Driven+Frontend+Developer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=750&lines=Frontend-First+Engineer+with+Optimization+Mindset;Performance+Focused+React+Developer;Scalable+UI+Architect;MERN+Stack+Engineer;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Frontend+%26+Software+Engineering+Roles" />
 
 </div>
 
 ---
 
 # 👨‍💻 Sonu Kashyap  
-### Backend-Focused Full Stack Engineer (MERN)
+### Frontend-First Full Stack Engineer (MERN)
 
-I design and build **scalable, secure, production-ready web systems** with strong backend architecture and clean frontend execution.
+I build **high-performance, scalable, and production-ready frontend applications** backed by strong API architecture and secure backend systems.
 
-- ⚙️ Backend-heavy engineering mindset  
-- 🔐 Authentication & authorization specialist  
-- 🏗️ REST API architecture & scalable system design  
-- 🚀 Performance-driven development  
-- 🎯 Targeting high-impact Software Engineering roles  
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Sonukashyap2400">
-    <img src="https://img.shields.io/badge/GitHub-SonuKashyap2400-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:sonukashyap3916@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To-Software%20Roles-brightgreen?style=for-the-badge"/>
-</p>
+- ⚡ Frontend performance & optimization focused  
+- 🎨 Clean, scalable UI architecture  
+- 🔐 Strong understanding of authentication & backend systems  
+- 🏗️ REST API integration & system design knowledge  
+- 🚀 Targeting Frontend & Software Engineering roles  
 
 ---
 
 # 🧠 Tech Stack
 
-### 💻 Core
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL`
+## 💻 Frontend Core
+`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
 
-### 🔐 Backend & Security
-`JWT` `Role-Based Access Control` `Password Hashing` `REST APIs`
+## ⚙️ Backend Knowledge
+`Node.js` `Express.js` `MongoDB` `MySQL`
 
-### 🎨 Frontend
-`HTML5` `CSS3` `Tailwind CSS`
+## 🔐 Security & Architecture
+`JWT` `Role-Based Access Control` `Password Hashing` `REST API Design`
 
-### ⚙️ Tools
+## 🛠 Tools
 `Git` `GitHub` `VS Code`
 
 ---
 
 # 🚀 Featured Engineering Projects
 
-## 🏫 Institute Registration & Management System
+## 🌐 SoftSell – High Performance Marketing SPA
 
-**Production-style secure backend system**
-
-✔ JWT Authentication & Protected Routes  
-✔ Role-Based Access Control (Admin / User)  
-✔ Secure Media Upload  
-✔ Email Prefill + Validation Logic  
-✔ Modular API Architecture  
-
----
-
-## 🌐 SoftSell – Marketing SPA
-
-**Modern high-performance React application**
+Modern, scalable React application focused on clean UI and performance.
 
 ✔ Component-driven architecture  
-✔ Fully responsive UI  
-✔ Optimized rendering  
-✔ Clean state management  
+✔ Optimized rendering & state management  
+✔ Fully responsive layout  
+✔ Clean folder structure  
+✔ Production-style design patterns  
 
 ---
 
-## 🔐 Authentication & User API System
+## 🏫 Institute Registration & Management System
 
-**Reusable authentication backend service**
+Secure full-stack application with strong frontend-backend coordination.
+
+✔ Dynamic form handling & validation  
+✔ Email-based prefill logic  
+✔ JWT Authentication  
+✔ Role-Based Access Control  
+✔ Secure media upload flow  
+✔ Modular backend architecture  
+
+---
+
+## 🔐 Authentication & User Management API
+
+Reusable authentication system with scalable backend design.
 
 ✔ Login & Registration APIs  
-✔ Password Encryption  
+✔ Password Encryption (bcrypt)  
 ✔ JWT Token Flow  
 ✔ Middleware-based route protection  
-✔ Scalable structure for microservices
+✔ Clean API structure  
 
 ---
 
@@ -97,28 +85,33 @@ I design and build **scalable, secure, production-ready web systems** with stron
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonukashyap2400&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
 # 🏆 Engineering Philosophy
 
-> Build for scale.  
-> Secure by design.  
-> Optimize before it hurts.  
-> Write code that survives production.
+> Build fast interfaces.  
+> Optimize early.  
+> Secure everything.  
+> Write scalable, maintainable code.
 
 ---
 
 # 🎯 2026 Goals
 
-- Master advanced system design  
+- Master advanced frontend performance optimization  
+- Deep dive into system design  
 - Contribute to large-scale open-source  
+- Build and launch one SaaS product  
 - Crack top-tier product-based companies  
-- Build one SaaS with real users  
 
 ---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Sonukashyap2400">
+    <img src="https://img.shields.io/badge/GitHub-SonuKashyap2400-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:sonukashyap3916@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Frontend%20%26%20Software%20Roles-brightgreen?style=for-the-badge"/>
+</p>
