@@ -1,23 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sonu%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Sonu%20Kashyap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=750&lines=Frontend-First+Engineer+with+Optimization+Mindset;Performance+Focused+React+Developer;Scalable+UI+Architect;MERN+Stack+Engineer;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Frontend+%26+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=850&lines=Frontend-First+Engineer+with+Performance+Mindset;Scalable+React+Architecture+Specialist;MERN+Stack+Engineer;Authentication+%7C+System+Design+%7C+API+Architecture;Building+Production-Ready+Applications" />
 
 </div>
 
 ---
 
 # 👨‍💻 Sonu Kashyap  
-### Frontend-First Full Stack Engineer (MERN)
+### Frontend-Focused Software Engineer (MERN Stack)
 
-I build **high-performance, scalable, and production-ready frontend applications** backed by strong API architecture and secure backend systems.
+I design and build **high-performance, scalable, and production-ready web applications** with strong frontend architecture and secure backend systems.
 
-- ⚡ Frontend performance & optimization focused  
-- 🎨 Clean, scalable UI architecture  
-- 🔐 Strong understanding of authentication & backend systems  
-- 🏗️ REST API integration & system design knowledge  
-- 🚀 Targeting Frontend & Software Engineering roles  
+I don’t just build UI — I build **fast, optimized, maintainable systems.**
+
+---
+
+# 🚀 Engineering Highlights
+
+- ⚡ Performance-first React development  
+- 🧠 Clean & scalable component architecture  
+- 🔐 Secure authentication & authorization systems  
+- 🏗️ REST API design & backend structure  
+- 📦 Optimized state management & rendering  
+- 🎯 Focused on Frontend & Software Engineering roles  
 
 ---
 
@@ -26,28 +33,63 @@ I build **high-performance, scalable, and production-ready frontend applications
 ## 💻 Frontend Core
 `React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
 
-## ⚙️ Backend Knowledge
+## ⚙️ Backend & Database
 `Node.js` `Express.js` `MongoDB` `MySQL`
 
 ## 🔐 Security & Architecture
-`JWT` `Role-Based Access Control` `Password Hashing` `REST API Design`
+`JWT` `Role-Based Access Control` `bcrypt` `REST API Design`
 
-## 🛠 Tools
+## 🛠 Developer Tools
 `Git` `GitHub` `VS Code`
 
 ---
 
 # 🚀 Featured Engineering Projects
 
+---
+
+## 🛒 E-Commerce Platform (Full Stack)
+
+A scalable and secure shopping platform built with MERN stack.
+
+✔ Product listing with dynamic filtering & search  
+✔ Add to cart & order workflow  
+✔ Secure authentication with JWT  
+✔ Role-based admin dashboard  
+✔ Optimized API structure  
+✔ Clean folder architecture  
+✔ Responsive UI  
+
+**Focus:** Scalability, secure checkout flow, optimized state updates
+
+---
+
+## 🤖 AI Blog Generator
+
+An intelligent blog generation tool powered by AI APIs.
+
+✔ AI-based content generation  
+✔ Prompt-based blog customization  
+✔ Loading optimization & debouncing  
+✔ Clean UI with responsive design  
+✔ Secure API integration  
+✔ Token-based request handling  
+
+**Focus:** API architecture, performance optimization, UX flow
+
+---
+
 ## 🌐 SoftSell – High Performance Marketing SPA
 
-Modern, scalable React application focused on clean UI and performance.
+Modern React single-page application focused on performance and scalability.
 
 ✔ Component-driven architecture  
-✔ Optimized rendering & state management  
-✔ Fully responsive layout  
+✔ Optimized rendering & re-renders control  
 ✔ Clean folder structure  
 ✔ Production-style design patterns  
+✔ Fully responsive layout  
+
+**Focus:** Performance optimization & scalable UI architecture
 
 ---
 
@@ -55,24 +97,28 @@ Modern, scalable React application focused on clean UI and performance.
 
 Secure full-stack application with strong frontend-backend coordination.
 
-✔ Dynamic form handling & validation  
+✔ Dynamic form validation  
 ✔ Email-based prefill logic  
 ✔ JWT Authentication  
 ✔ Role-Based Access Control  
-✔ Secure media upload flow  
-✔ Modular backend architecture  
+✔ Secure media upload handling  
+✔ Modular backend structure  
+
+**Focus:** Secure data handling & system design thinking
 
 ---
 
 ## 🔐 Authentication & User Management API
 
-Reusable authentication system with scalable backend design.
+Reusable authentication module designed for scalable applications.
 
-✔ Login & Registration APIs  
+✔ Registration & Login APIs  
 ✔ Password Encryption (bcrypt)  
 ✔ JWT Token Flow  
 ✔ Middleware-based route protection  
-✔ Clean API structure  
+✔ Clean and reusable API structure  
+
+**Focus:** Security, middleware architecture, scalability
 
 ---
 
@@ -90,16 +136,17 @@ Reusable authentication system with scalable backend design.
 > Build fast interfaces.  
 > Optimize early.  
 > Secure everything.  
-> Write scalable, maintainable code.
+> Write scalable, maintainable code.  
+> Think like a product engineer.
 
 ---
 
 # 🎯 2026 Goals
 
 - Master advanced frontend performance optimization  
-- Deep dive into system design  
-- Contribute to large-scale open-source  
-- Build and launch one SaaS product  
+- Deep dive into frontend system design  
+- Contribute to large-scale open-source projects  
+- Launch one SaaS product  
 - Crack top-tier product-based companies  
 
 ---
@@ -113,5 +160,11 @@ Reusable authentication system with scalable backend design.
   <a href="mailto:sonukashyap3916@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20To-Frontend%20%26%20Software%20Roles-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-Frontend%20%26%20Software%20Engineering%20Roles-brightgreen?style=for-the-badge"/>
 </p>
+
+---
+
+# 📌 Current Focus
+
+Improving frontend performance, advanced React patterns, system design, and building production-grade applications.
