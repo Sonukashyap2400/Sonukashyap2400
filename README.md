@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sonu%20Kashyap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=700&lines=Backend-First+Full+Stack+Engineer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=700&lines=Front End -First+Full+Stack+Engineer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
 
 </div>
 
